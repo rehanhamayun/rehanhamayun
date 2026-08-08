@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rehan%20Hamayun&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20App%20Developer%20%C2%B7%20Flutter%20%C2%B7%20iOS%20%C2%B7%20Android&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rehan%20Hamayun&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20%C2%B7%20iOS%20%C2%B7%20Android%20%C2%B7%20AI%20Automations%20%C2%B7%20AI-Driven%20Workflows&descAlignY=55&descSize=15" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF61D8&center=true&vCenter=true&width=600&lines=Building+fast%2C+reliable+mobile+apps;12%2B+apps+shipped+%C2%B7+4.9%E2%98%85+avg+rating;Now+wiring+AI+into+mobile+workflows)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF61D8&center=true&vCenter=true&width=600&lines=Flutter+%7C+iOS+%7C+Android+Developer;AI+Automations+%C2%B7+AI-Driven+Workflows;12%2B+apps+shipped+%C2%B7+4.9%E2%98%85+avg+rating)](https://git.io/typing-svg)
 
 <p>
 <a href="https://rehanit.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FAFAF7?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-39FF14?style=for-the-badge&logo=briefcase&logoColor=white" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rehanhamayun&color=FF61D8&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://img.shields.io/badge/Profile_Views-71-FF61D8?style=for-the-badge" />
 
 </div>
 
@@ -62,22 +62,6 @@
 <img src="https://img.shields.io/badge/Avg_Store_Rating-4.9%E2%98%85-FFD700?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Experience-4%2B_Years-00F0FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Build-Passing-39FF14?style=for-the-badge" />
-
-</div>
-
-### 🗂️ Top Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehanhamayun&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rehanhamayun&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
 
